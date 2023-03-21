@@ -3,7 +3,7 @@
     <title>Onno Heesbeen</title>
     <link href="https://onnoheesbeen.nl/feed.xml" rel="self" />
     <link href="https://onnoheesbeen.nl" />
-    <updated>2023-03-21T17:55:53+01:00</updated>
+    <updated>2023-03-21T20:48:31+01:00</updated>
     <author>
         <name>Onno Heesbeen</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://onnoheesbeen.nl/contact.html"/>
         <id>https://onnoheesbeen.nl/contact.html</id>
 
-        <updated>2023-03-21T17:22:17+01:00</updated>
+        <updated>2023-03-21T20:48:31+01:00</updated>
             <summary>
                 <![CDATA[
                     Read and view my work at https://onnozone.com Shop illustrations and models at https://onnozone.etsy.com/ Subscribe for updates: Write to onnoheesbeen@hotmail.com
@@ -25,8 +25,8 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Read and view my work at <a href="https://onnozone.com">https://onnozone.com</a></p>
-<p>Shop illustrations and models at <a href="https://onnozone.etsy.com/">https://onnozone.etsy.com/</a></p>
+                <p>Read and view my work at <a href="https://onnozone.com" target="_blank" rel="noopener noreferrer">https://onnozone.com</a></p>
+<p>Shop illustrations and models at <a href="https://onnozone.etsy.com/" target="_blank" rel="noopener noreferrer">https://onnozone.etsy.com/</a></p>
 <p>Subscribe for updates:</p>
 <ul>
 <li>Business <a href="https://www.facebook.com/onnozonecom" target="_blank" rel="noopener noreferrer">facebook.com/onnozonecom</a> </li>
